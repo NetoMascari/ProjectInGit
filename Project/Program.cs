@@ -15,6 +15,11 @@ namespace Project
             Console.WriteLine(d2);
 
             Console.ReadLine();
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine(d1);
+            }
         }
     }
 }
